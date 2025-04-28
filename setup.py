@@ -23,7 +23,7 @@ args = dict(
         "requests>=2.13.0,<3",
     ],
     platforms=["Any"],
-    python_requires='>=3.6, <3.10',
+    python_requires='>=3.6, <=3.13',
     classifiers=[
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
